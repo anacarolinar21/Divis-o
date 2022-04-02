@@ -1,0 +1,2 @@
+# Divis-o
+exercício lista
